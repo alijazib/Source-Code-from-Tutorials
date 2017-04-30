@@ -3,8 +3,8 @@
 
 int main() {
 
-	printf("Bucky is awesome \n");
-	printf("Bucky is cool \a");
+	printf("jazib is awesome \n");
+	printf("jazib is cool \a");
 	return 0;
 	
 }
